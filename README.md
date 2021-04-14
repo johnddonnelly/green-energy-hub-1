@@ -122,10 +122,6 @@ To understand the journey of Green Energy Hub, is to understand the business obj
 | API Gateway | INACTIVE | - | [Link](https://github.com/Energinet-DataHub/geh-api-gateway/blob/main/README.md) |
 <br>
 
-## Getting started
-
-To get started utilizing the Green Energy Hub, please read [this](./docs/tech-start.md).
-
 ## Project Sponsors and contributors
 
 <img src="./images/energinet.png" alt="Energinet" style="width: 250px; height: auto;" />
